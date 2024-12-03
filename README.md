@@ -13,6 +13,8 @@ This is a full-stack MERN application designed to help businesses list and manag
 - **Authentication**: JWT
 - **Payment Gateway**: Razorpay
 
+## Live Demo
+Experience the application live: [Live Demo](https://frontend-inventory-managment.vercel.app/)
 
 
 ## Project Structure
